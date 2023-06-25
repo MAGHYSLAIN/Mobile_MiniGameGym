@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2640ae8a93c3204fb0cb86e87cf13b5, type: 3}
+  m_Name: Rainbow
+  m_EditorClassIdentifier: 
+  skinID: 4
+  skinSprite: {fileID: 21300000, guid: 2af6b9731467f8a42ab3e41e6a0706c7, type: 3}
+  skinPrice: 900
+  skinMaterial: {fileID: 2100000, guid: e7b0f9ca61b046747b34c8afc30f1f09, type: 2}
+  particleMaterial: {fileID: 2100000, guid: a0cec58fc32f482418596ffdf7c0d693, type: 2}
+  skinColor: {r: 1, g: 0, b: 0, a: 1}
